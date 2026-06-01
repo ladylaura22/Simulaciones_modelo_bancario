@@ -211,19 +211,6 @@ jupyter notebook --ip=127.0.0.1 --port=8888
 
 ---
 
-## 📝 Rubrica de Evaluación
-
-Este proyecto cumple con los siguientes criterios:
-
-✅ **Código completo:** Implementación de simulaciones bancarias
-✅ **README detallado:** Documentación clara y comprensiva
-✅ **Instrucciones de ejecución:** Pasos paso a paso para correr el código
-✅ **Archivos necesarios:** Todos los notebooks y dependencias incluidas
-✅ **Evidencias de resultados:** Gráficas y estadísticas generadas en los notebooks
-
-**Total: 10 puntos**
-
----
 
 ## 📞 Contacto y Soporte
 
